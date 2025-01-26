@@ -5,7 +5,12 @@
 let amigos = [];
 
 //Función, que permite al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos
+
 function agregarAmigo() {
+    //Se obtiene  el texto del nombre ingresdo por el usuario, del campo de entrada de datos
+
     let nombre = document.getElementById('amigo').value;
+
+    //
     console.log(nombre);
 }
