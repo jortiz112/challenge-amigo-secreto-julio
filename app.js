@@ -12,9 +12,10 @@ function agregarAmigo() {
     if (document.getElementById('amigo').value === "") {
         alert('Por favor, inserte un nombre.');
     } else {
-        //Se obtiene el texto del nombre ingresdo por el usuario, del campo de entrada de datos
-        let nombre = document.getElementById('amigo').value;
-        console.log(nombre);
+        /*Se obtiene el texto del nombre ingresdo por el usuario, del campo de entrada de datos y se actualiza el
+        array amigos*/
+        amigos.push(document.getElementById('amigo').value);
+        return console.log(amigos);        
     }
     
 }
