@@ -15,6 +15,8 @@ function agregarAmigo() {
         /*Se obtiene el texto del nombre ingresdo por el usuario, del campo de entrada de datos y se actualiza el
         array amigos*/
         amigos.push(document.getElementById('amigo').value);
+        //Se restablece el campo de texto a una cadena vacía
+        document.getElementById('amigo').value = "";
         return console.log(amigos);        
     }
     
