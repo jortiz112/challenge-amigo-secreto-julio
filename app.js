@@ -3,7 +3,7 @@
 
 //Declaración de variable de tipo array, que almacenará los nombres de los amigos ingresados
 let amigos = [];
-//let contador = 0;
+//se declara la variable lista, en donde se almacenara toda la lista completa para mandar a insertar en el HTML
 let lista = "";
 //Función, que permite al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos
 function agregarAmigo() {
