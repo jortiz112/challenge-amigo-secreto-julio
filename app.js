@@ -18,8 +18,8 @@ function agregarAmigo() {
         amigos.push(document.getElementById('amigo').value);
         //Se restablece el campo de texto a una cadena vacía
         document.getElementById('amigo').value = "";
-
-              
+        //Se realiza la llamada de la funcion que actualiza la lista de amigos en el HTML
+        actualizaListaAmigos();      
     }  
     
     return;
