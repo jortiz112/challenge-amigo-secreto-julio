@@ -40,3 +40,12 @@ function actualizaListaAmigos() {
     }
     return;    
 }
+
+/*función que selecciona de manera aleatoria uno de los nombres almacenados en el array amigos. 
+Se Math.random() y Math.floor() para obtener un índice aleatorio.*/
+function sortearAmigo() {
+  //Se comprueba si el array amigos no está vacío.
+  if (amigos.length > 0) {
+    
+  }
+}
