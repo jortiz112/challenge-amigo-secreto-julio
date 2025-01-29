@@ -90,7 +90,7 @@ Para probar la funcionalidad del "Amigo Secreto", simplemente visita el siguient
 
 ## Autores del Proyecto
 
-![img](assets/Foto-Pequeña-julio.png)  Programación JavaScript               
+![img](assets/Foto-Pequeña-julio.png)    Programación JavaScript               
 
                                
 ![img](assets/alura-latam.png)  Programación HTML y CSS
