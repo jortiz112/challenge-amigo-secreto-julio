@@ -90,7 +90,7 @@ Para probar la funcionalidad del "Amigo Secreto", simplemente visita el siguient
 
 ## Autores del Proyecto
 
-![img  Ing. Julio Ortiz Programación JavaScript](assets/Foto-Pequeña-julio.png)     ![img Programación HTML y CSS](assets/alura-latam.png)
+![Ing. Julio Ortiz Programación JavaScript](assets/Foto-Pequeña-julio.png)     ![Programación HTML y CSS](assets/alura-latam.png)
 
 
 
