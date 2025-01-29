@@ -1,4 +1,4 @@
-<em> # Amigo Secreto </em>
+# <h1 align="center"> Challenge Amigo Secreto </h1>
 
 ![img](assets/amigo-secreto-presentacion.png)
 
@@ -40,12 +40,13 @@ LinkedIn: para conectarse con la comunidad y mostrar el aprendizaje adquirido.
 
 ```sh
 
-Familiarízame con el concepto de Challenge Based Learning y los 3 pilares: compromiso, investigación y acción.
-Revisar los materiales y recursos disponibles en Trello y Discord.
-Planificar y organizar el proyecto utilizando Trello.
-Investigar y consultar los cursos y formaciones de Alura Latam para resolver el desafío.
-Escribir el código y publicar el proyecto en GitHub.
-Compartir el aprendizaje y experiencia en LinkedIn.
+- Familiarízame con el concepto de Challenge Based Learning y los 3 pilares: compromiso, investigación
+  y acción.
+- Revisar los materiales y recursos disponibles en Trello y Discord.
+- Planificar y organizar el proyecto utilizando Trello.
+- Investigar y consultar los cursos y formaciones de Alura Latam para resolver el desafío.
+- Escribir el código y publicar el proyecto en GitHub.
+- Compartir el aprendizaje y experiencia en LinkedIn.
 
 ```
 ## Características
@@ -64,10 +65,16 @@ Compartir el aprendizaje y experiencia en LinkedIn.
 
 ## Funcionalidad del Amigo Secreto
 
-1. Escribe un nombre en la casilla de texto y dar click en el botón añadir, no se permitirá ingresar nulos.
+```sh
+
+1. Escribe un nombre en la casilla de texto y dar click en el botón añadir, no se permitirá
+   ingresar nulos.
 2. Ingresar todos los nombres de sus amigos que desee.
-3. Una vez que se tenga la lista de amigos ingresada, se puede proceder a sortear el amigo secreto dando clinken el botón         Sortear amigo
-4. Se puede seguir incrementando nombres a la lista.
+3. Una vez que se tenga la lista de amigos ingresada, se puede proceder a sortear el amigo
+   secreto dando click el botón Sortear amigo.
+6. Se puede seguir incrementando nombres a la lista.
+
+```
 
 ## Instalación
 
