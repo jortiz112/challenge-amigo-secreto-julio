@@ -52,6 +52,8 @@ function sortearAmigo() {
     /*Se Obtiene el nombre sorteado, se utiliza el índice aleatorio para acceder al nombre correspondiente 
     en el arreglo. y se muestra el resultado en la lista de id resultado*/
     document.getElementById('resultado').innerHTML = `El amigo secreto es: ${amigos[indice]}`;
-    
+    //Se limpia la lista existente de amigos del HTML
+    document.getElementById('listaAmigos').innerHTML = "";
   }
+  return;
 }
