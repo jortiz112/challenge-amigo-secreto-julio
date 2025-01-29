@@ -6,7 +6,9 @@
 
 ```sh
 
-El Challenge Amigo Secreto es un proyecto de aprendizaje basado en desafíos que forma parte del curso de Lógica de Programación de Alura Latam. En este challenge, los estudiantes tendrán que crear un programa que simule un sorteo de amigo secreto.
+El Challenge Amigo Secreto es un proyecto de aprendizaje basado en desafíos que forma parte del curso
+de Lógica de Programación de Alura Latam. En este challenge, los estudiantes tendrán que crear un
+programa que simule un sorteo de amigo secreto.
 
 ```
 
@@ -14,10 +16,11 @@ El Challenge Amigo Secreto es un proyecto de aprendizaje basado en desafíos que
 
 ```sh
 
-Practicar la lógica de programación y la resolución de problemas.
-Aprender a estructurar y organizar un proyecto.
-Desarrollar habilidades de trabajo en equipo y comunicación.
-Aplicar conceptos vistos en los cursos de Alura Latam, como variables, condicionales, ciclos, funciones, listas o arrays etc.
+- Practicar la lógica de programación y la resolución de problemas.
+- Aprender a estructurar y organizar un proyecto.
+- Desarrollar habilidades de trabajo en equipo y comunicación.
+- Aplicar conceptos vistos en los cursos de Alura Latam, como variables, condicionales, ciclos,
+  funciones, listas o arrays etc.
 
 ```
 
