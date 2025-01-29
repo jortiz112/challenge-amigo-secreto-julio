@@ -5,6 +5,7 @@
 let amigos = [];
 //se declara la variable lista, en donde se almacenara toda la lista completa para mandar a insertar en el HTML
 let lista = "";
+
 //Función, que permite al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos
 function agregarAmigo() {
     
@@ -45,7 +46,9 @@ function actualizaListaAmigos() {
 Se Math.random() y Math.floor() para obtener un índice aleatorio.*/
 function sortearAmigo() {
   //Se comprueba si el array amigos no está vacío.
-  if (amigos.length > 0) {
-    
+  if (amigos.length >= 0) {
+    //Se genera un índice aleatorio del arreglo
+    let indice = Math.floor(Math.random() * (amigos.length));
+    console.log(indice);
   }
 }
