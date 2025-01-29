@@ -49,6 +49,9 @@ function sortearAmigo() {
   if (amigos.length >= 0) {
     //Se genera un índice aleatorio del arreglo
     let indice = Math.floor(Math.random() * (amigos.length));
-    console.log(indice);
+    /*Se Obtiene el nombre sorteado, se utiliza el índice aleatorio para acceder al nombre correspondiente 
+    en el arreglo. y se muestra el resultado en la lista de id resultado*/
+    document.getElementById('resultado').innerHTML = `El amigo secreto es: ${amigos[indice]}`;
+    
   }
 }
