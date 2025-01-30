@@ -28,11 +28,11 @@ programa que simule un sorteo de amigo secreto.
 
 ```sh
 
-Trello: para organizar las tareas y el progreso del proyecto.
-Discord: para comunicarse con los compañeros y aclarar dudas.
-Cursos y formaciones de Alura Latam: para consultar contenidos relevantes y obtener más información.
-GitHub: para publicar y compartir el código del proyecto.
-LinkedIn: para conectarse con la comunidad y mostrar el aprendizaje adquirido.
+- Trello: para organizar las tareas y el progreso del proyecto.
+- Discord: para comunicarse con los compañeros y aclarar dudas.
+- Cursos y formaciones de Alura Latam: para consultar contenidos relevantes y obtener más información.
+- GitHub: para publicar y compartir el código del proyecto.
+- LinkedIn: para conectarse con la comunidad y mostrar el aprendizaje adquirido.
 
 ```
 
@@ -55,7 +55,7 @@ LinkedIn: para conectarse con la comunidad y mostrar el aprendizaje adquirido.
 
 - Interfaz simple y fácil de usar.
 
-- Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - HTML
 
@@ -72,7 +72,7 @@ LinkedIn: para conectarse con la comunidad y mostrar el aprendizaje adquirido.
 2. Ingresar todos los nombres de sus amigos que desee.
 3. Una vez que se tenga la lista de amigos ingresada, se puede proceder a sortear el amigo
    secreto dando click el botón Sortear amigo.
-6. Se puede seguir incrementando nombres a la lista.
+4. Se puede seguir incrementando nombres a la lista.
 
 ```
 
@@ -90,10 +90,10 @@ Para probar la funcionalidad del "Amigo Secreto", simplemente visita el siguient
 
 ## Autores del Proyecto
 
-![img](assets/Foto-Pequeña-julio.png)    Programación JavaScript               
+>> ![img](assets/Foto-Pequeña-julio.png)    Programación JavaScript               
 
                                
-![img](assets/alura-latam.png)  Programación HTML y CSS
+>> ![img](assets/alura-latam.png)  Programación HTML y CSS
 
 
 
