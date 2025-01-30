@@ -82,7 +82,7 @@ LinkedIn: para conectarse con la comunidad y mostrar el aprendizaje adquirido.
 Para probar la funcionalidad del "Amigo Secreto", simplemente visita el siguiente enlace: 
 
 ```
-### [Link a la página para probar el Amigo Secreto URL ](URL)
+### [Link a la página para probar el Amigo Secreto (https://jortiz112.github.io/challenge-amigo-secreto-julio/)](https://jortiz112.github.io/challenge-amigo-secreto-julio/)
 
 ## Contribuciones
 
