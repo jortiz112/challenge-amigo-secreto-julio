@@ -95,7 +95,9 @@ Para probar la funcionalidad del "Amigo Secreto", simplemente visita el siguient
                                
 >> ![img](assets/alura-latam.png)  Programación HTML y CSS
 
+## Insignias ganadas
 
+>> ![img](assets/primera-insignia.png)    Primera insignia ganada
 
 
 
