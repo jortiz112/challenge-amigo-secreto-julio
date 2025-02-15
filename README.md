@@ -99,6 +99,10 @@ Para probar la funcionalidad del "Amigo Secreto", simplemente visita el siguient
 
 >> ![img](assets/primera-insignia.png)    Primera insignia ganada
 
+## Certificado
+
+![img](assets/certficado.png)
+
 
 
 
