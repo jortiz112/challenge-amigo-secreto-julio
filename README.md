@@ -1,8 +1,10 @@
-# <h1 align="center"> Challenge Amigo Secreto </h1>
+***
+# <h1 align="center"> 💥Challenge Amigo Secreto💥 </h1>
+***
 
 ![img](assets/amigo-secreto-presentacion.png)
 
-## Descripción del proyecto
+## 📄Descripción del proyecto
 
 ```sh
 
@@ -12,7 +14,7 @@ programa que simule un sorteo de amigo secreto.
 
 ```
 
-## Objetivos de aprendizaje
+## 📃Objetivos de aprendizaje
 
 ```sh
 
@@ -24,7 +26,7 @@ programa que simule un sorteo de amigo secreto.
 
 ```
 
-## Recursos y herramientas utilizados
+## 🛠️Recursos y herramientas utilizados
 
 ```sh
 
@@ -36,7 +38,7 @@ programa que simule un sorteo de amigo secreto.
 
 ```
 
-## Pasos a seguir
+## 📒Pasos a seguir
 
 ```sh
 
@@ -49,21 +51,21 @@ programa que simule un sorteo de amigo secreto.
 - Compartir el aprendizaje y experiencia en LinkedIn.
 
 ```
-## Características
+## 📑Características
 
 - Generación aleatoria de números secretos.
 
 - Interfaz simple y fácil de usar.
 
-## Tecnologías Utilizadas
+## 🌀Tecnologías Utilizadas
 
-- HTML
+✔️HTML
 
-- CSS
+✔️CSS
 
-- JavaScript
+✔️JavaScript
 
-## Funcionalidad del Amigo Secreto
+## 📗Funcionalidad del Amigo Secreto
 
 ```sh
 
@@ -76,30 +78,29 @@ programa que simule un sorteo de amigo secreto.
 
 ```
 
-## Instalación
+## 💻Instalación
 
 ```sh
 Para probar la funcionalidad del "Amigo Secreto", simplemente visita el siguiente enlace: 
 
 ```
-### [Link a la página para probar el Amigo Secreto (https://jortiz112.github.io/challenge-amigo-secreto-julio/)](https://jortiz112.github.io/challenge-amigo-secreto-julio/)
+### ***[Link a la página para probar el Amigo Secreto (https://jortiz112.github.io/challenge-amigo-secreto-julio/)](https://jortiz112.github.io/challenge-amigo-secreto-julio/ "Realizado por: Ing. Julio César Ortiz Pabón")***
 
-## Contribuciones
+## 🙏Contribuciones
 
 >> Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras o sugerencias.
 
-## Autores del Proyecto
+## 👩👨Autores del Proyecto
 
->> ![img](assets/Foto-Pequeña-julio.png)    Programación JavaScript               
+>> ![img](assets/Foto-Pequeña-julio.png)    Programación JavaScript
+>                               
+>>> ![img](assets/alura-latam.png)  Programación HTML y CSS
 
-                               
->> ![img](assets/alura-latam.png)  Programación HTML y CSS
-
-## Insignias ganadas
+## 🏆Insignias ganadas
 
 >> ![img](assets/primera-insignia.png)    Primera insignia ganada
 
-## Certificado
+## 📜Certificado
 
 ![img](assets/certficado.png)
 
