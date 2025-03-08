@@ -19,6 +19,8 @@ function agregarAmigo() {
         amigos.push(document.getElementById('amigo').value);
         //Se restablece el campo de texto a una cadena vacía
         document.getElementById('amigo').value = "";
+        /*Para que el cursor siempre este en la caja de texto listo para ingresar una nueva entrada */
+        document.getElementById('amigo').focus();
         //Se realiza la llamada de la funcion que actualiza la lista de amigos en el HTML
         actualizaListaAmigos(); 
         //Se lispia la lista existente para asegurarse de que no haya duplicados al actualizar.
