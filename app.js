@@ -12,20 +12,29 @@ function agregarAmigo() {
     /*Se añade una validación para evitar que el usuario deje vacío el campo de entrada de datos y muestra un alerta
       en caso de dejarlo en blanco*/
     if (document.getElementById('amigo').value === "") {
-        alert('Por favor, inserte un nombre.');
+      alert('Por favor, inserte un nombre.');
+      document.getElementById('amigo').focus();
+    } else if (document.getElementById('amigo').value.match(/\d/) || document.getElementById('amigo').value.match(/\s/) || document.getElementById('amigo').value.match(/\W/)) {  /*Se valida que el nombre no contenga números, espacios en blanco y caracteres especiales */
+      alert('El nombre no puede contener números, espacios en blanco, tíldes o caracteres especiales, solo debe contener letras.');
+      document.getElementById('amigo').focus();
+    } else if (amigos.includes(document.getElementById('amigo').value)) {  /*Se valida que el nombre no exista en el arreglo para dejarle ingresar */
+      alert('Este nombre ya existe en su lista de amigos.');
+      document.getElementById('amigo').focus();
     } else {
-        /*Se obtiene el texto del nombre ingresdo por el usuario, del campo de entrada de datos y se actualiza el
-        array amigos*/
-        amigos.push(document.getElementById('amigo').value);
-        //Se restablece el campo de texto a una cadena vacía
-        document.getElementById('amigo').value = "";
-        /*Para que el cursor siempre este en la caja de texto listo para ingresar una nueva entrada */
-        document.getElementById('amigo').focus();
-        //Se realiza la llamada de la funcion que actualiza la lista de amigos en el HTML
-        actualizaListaAmigos(); 
-        //Se lispia la lista existente para asegurarse de que no haya duplicados al actualizar.
-        lista = "";     
-    }  
+      /*Se obtiene el texto del nombre ingresdo por el usuario, del campo de entrada de datos y se actualiza el
+      array amigos*/
+      amigos.push(document.getElementById('amigo').value);
+      //Se restablece el campo de texto a una cadena vacía
+      document.getElementById('amigo').value = "";
+      /*Para que el cursor siempre este en la caja de texto listo para ingresar una nueva entrada */
+      document.getElementById('amigo').focus();
+      //Se realiza la llamada de la funcion que actualiza la lista de amigos en el HTML
+      actualizaListaAmigos(); 
+      //Se lispia la lista existente para asegurarse de que no haya duplicados al actualizar.
+      lista = "";
+    }
+             
+      
     
     return;
 }
