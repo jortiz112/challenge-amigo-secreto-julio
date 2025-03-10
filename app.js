@@ -32,10 +32,7 @@ function agregarAmigo() {
       actualizaListaAmigos(); 
       //Se lispia la lista existente para asegurarse de que no haya duplicados al actualizar.
       lista = "";
-    }
-             
-      
-    
+    }   
     return;
 }
 
